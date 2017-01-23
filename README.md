@@ -2,7 +2,7 @@ Name:Cuiqing Li
 
 Time:1/17/2017
 
-This is a project about use neural network algorithms to recogonize tranffic signs,and the project is from Udacity Self Driving Cars Nanodegree! More details are the following:
+This is a project about using neural network algorithms to recogonize tranffic signs,and the project is from Udacity Self Driving Cars Nanodegree! More details are the following:
 
 
 ## Project: Build a Traffic Sign Recognition Program
